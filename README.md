@@ -198,9 +198,9 @@ The angular user interface loads the web application and takes care of user sess
  
 |TeamMembers|Module Worked On|
 |--|--|
-|Bavani S | Account Service|
-| Harish K|Rules Service |
-| Mehul Kumar | Authentication Service |
-|Vemula Chandana | Transaction Service  |
-| Yash Gupta | Customer Service |
+|Purushottam Kumar | Account Service|
+| Kapil Gupta|Rules Service |
+| Kapill Gupta | Authentication Service |
+|Chinnaiah Nagarjun | Transaction Service  |
+| Shivam Tripathi | Customer Service |
 
